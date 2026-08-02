@@ -95,10 +95,10 @@ I am a Computer Science sophomore at **The LNM Institute of Information Technolo
       <img src="https://img.shields.io/badge/LLM-Orchestrator-orange?style=flat-square" alt="LLM" />
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Akulbanxal/Memori">Memori</a></h3>
-      <p>Contributed to an agent-native memory infrastructure that acts as a vector-backed LLM-agnostic memory tier, turning agent trace history into persistent knowledge bases.</p>
-      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Persistent--Memory-Production-blue?style=flat-square" alt="Persistent Memory" />
+      <h3>🛡️ <a href="https://github.com/swapnilyt1234/Kavach-AI">Kavach-AI</a></h3>
+      <p>Contributed to an AI-powered cybersecurity extension designed to run real-time security scans, flag code vulnerabilities, and prevent malicious prompt injections.</p>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/AI--Guardrails-Active-blueviolet?style=flat-square" alt="AI Guardrails" />
     </td>
   </tr>
 </table>
