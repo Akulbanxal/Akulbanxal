@@ -47,20 +47,20 @@ I am a Computer Science sophomore at **The LNM Institute of Information Technolo
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="33%" valign="top">
         <b>Languages</b>
         <br><br>
-        <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,html,css" alt="Programming Languages" />
+        <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,html,css&perline=3" alt="Programming Languages" />
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" valign="top">
         <b>Frameworks & Runtimes</b>
         <br><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="Frameworks and Libraries" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&perline=3" alt="Frameworks and Libraries" />
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" valign="top">
         <b>Databases & Tooling</b>
         <br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgres" alt="Development Tools and Databases" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgres&perline=3" alt="Development Tools and Databases" />
       </td>
     </tr>
   </table>
@@ -110,16 +110,16 @@ I am a Computer Science sophomore at **The LNM Institute of Information Technolo
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Akulbanxal&show_icons=true&theme=dark&hide=issues&bg_color=0B0F19&title_color=00E676&icon_color=00E5FF&text_color=E2E8F0&border_color=94A3B8" alt="AkulB's GitHub Stats" width="100%"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=Akulbanxal&show_icons=true&theme=dark&hide=issues&bg_color=0B0F19&title_color=00E676&icon_color=00E5FF&text_color=E2E8F0&border_color=94A3B8" alt="AkulB's GitHub Stats" height="195"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akulbanxal&background=0B0F19&border=94A3B8&stroke=94A3B8&ring=00E676&fire=00E676&currStreakNum=00E5FF&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8" alt="AkulB's Streak Stats" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akulbanxal&background=0B0F19&border=94A3B8&stroke=94A3B8&ring=00E676&fire=00E676&currStreakNum=00E5FF&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8" alt="AkulB's Streak Stats" height="195"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akulbanxal&layout=compact&theme=dark&bg_color=0B0F19&title_color=00E676&text_color=E2E8F0&border_color=94A3B8" alt="AkulB's Top Languages" width="60%"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akulbanxal&layout=compact&theme=dark&bg_color=0B0F19&title_color=00E676&text_color=E2E8F0&border_color=94A3B8" alt="AkulB's Top Languages" height="165"/>
     </td>
   </tr>
 </table>
@@ -129,7 +129,7 @@ I am a Computer Science sophomore at **The LNM Institute of Information Technolo
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akulbanxal&theme=onedark&no-frame=true&row=1" alt="AkulB's Trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Akulbanxal&theme=onedark&no-frame=true&row=1" alt="AkulB's Trophies" />
 </p>
 
 ---
@@ -155,12 +155,10 @@ I am always excited to discuss competitive programming techniques, Machine Learn
 
 <br>
 <p align="right">
-  <img src="https://komarev.com/counter/?username=Akulbanxal&color=00E676&style=flat-square&label=Profile+Visits" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Akulbanxal&color=00E676&style=flat-square&label=Profile+Visits" alt="Visitor Counter" />
 </p>
 
 <!-- Dynamic sections for contribution snake (see .github/workflows/snake.yml) -->
-<!-- When the workflow runs successfully, you can uncomment this to showcase the animated snake! -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Akulbanxal/Akulbanxal/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
--->
